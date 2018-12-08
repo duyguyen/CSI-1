@@ -1,0 +1,128 @@
+Name: Nguyen Thanh Duy
+Class: CSCI-1
+Instructor: 
+-------------------------------------------------
+
+*****FINAL QUIZ*****
+1. The collection class ArrayList<E> can dynamically change its size to accommodate more elements?
+(A) t
+(B) f
+*Correct Answer: (A) t; Chapter: C7; Section: S16
+*User Answer: A - Correct
+
+2. An array is a group of variables (called elements or components) containing values that all have the same type?
+(A) t
+(B) f
+*Correct Answer: (A) t; Chapter: C7; Section: S2
+*User Answer: A - Correct
+
+3. Arrays that require two indices to identify each element are called?
+(A) two-dimensional arrays
+(B) three-dimensional arrays
+(C) one-dimensional arrays
+(D) none of the above
+*Correct Answer: (A) two-dimensional arrays; Chapter: C7; Section: S11
+*User Answer: A - Correct
+
+4.  What a subclass can contain from its superclass ?
+(A) It doesn’t contain anything from its superclass.
+(B) It contains all instance variables from its super class.
+(C) It contains all instance variables and all methods from its superclass.
+*Correct Answer: (C) It contains all instance variables and all methods from its superclass.; Chapter: C9; Section: S4
+*User Answer: A - Incorrect
+
+5.  How can a subclass access to its superclass’s instance variables ?
+(A) Since it inherits its superclass, it can access to its superclass’s instance variables whenever it wants.
+(B) The instance variables have to be declared with the private keyword.
+(C) The instance variables have to be declared with protected keyword.
+*Correct Answer: (C) The instance variables have to be declared with protected keyword.; Chapter: C9; Section: S4
+*User Answer: A - Incorrect
+
+6.  Superclass constructors are not inherited by subclasses. ?
+(A) t
+(B) f
+*Correct Answer: (A) t; Chapter: C9; Section: S2
+*User Answer: A - Correct
+
+7.  If String aWord contains "hello", aWord.length() will return?
+(A) "five"
+(B) "hello"
+(C) 5
+(D) 4
+*Correct Answer: (C) 5; Chapter: C14; Section: S3
+*User Answer: A - Incorrect
+
+8.  String word = "hello"; What does word.charAt(0) return?
+(A) True
+(B) 5
+(C) "h"
+(D) "hello"
+*Correct Answer: (C) "h"; Chapter: C14; Section: S3
+*User Answer: A - Incorrect
+
+9.  Write the declaration of a String method that takes two String parameters:
+(A) public String processInput(int number) { //... }
+(B) public void processInput(String a, String b) { //... }
+(C) public String processInput(String word1, String word2) { //... }
+(D) public int processInput(String word1, String word2) { //... }
+*Correct Answer: (C) public String processInput(String word1, String word2) { //... }; Chapter: C14; Section: S3
+*User Answer: A - Incorrect
+
+10.  Which type of data is permanently stored?
+(A) Arrays
+(B) String
+(C) Int
+(D) Files
+*Correct Answer: (D) Files; Chapter: C15; Section: S1
+*User Answer: A - Incorrect
+
+11.   Which class is used for file output?
+(A) Scanner
+(B) Formatter
+(C) Files
+(D) Paths
+*Correct Answer: (B) Formatter; Chapter: C15; Section: S3
+*User Answer: A - Incorrect
+
+12.  Which class is used for file input?
+(A) Scanner
+(B) Formatter
+(C) Files
+(D) Path
+*Correct Answer: (A) Scanner; Chapter: C15; Section: S3
+*User Answer: A - Correct
+
+13.   A ____ is needed to terminate recursion?
+(A) recursion step
+(B) void return type
+(C) break statement
+(D) base case
+*Correct Answer: (D) base case; Chapter: C18; Section: S1
+*User Answer: A - Incorrect
+
+14.   What is a drawback to recursion?
+(A) It can only solve simple problems
+(B) It is difficult to debug
+(C) The more times it calls itself, the longer it takes to compute
+(D) The solution is not always apparent
+*Correct Answer: (C) The more times it calls itself, the longer it takes to compute; Chapter: C18; Section: S5
+*User Answer: A - Incorrect
+
+15.   A file must be closed and reopened when wanting to read data in the file multiple times?
+(A) True
+(B) False
+*Correct Answer: (A) True; Chapter: C18; Section: S3
+*User Answer: A - Correct
+
+-------------------------------------------------
+***TOTAL***
+Average: 40.00%
+Correct: 6
+Incorrect: 9
+
+***EVALUATION CHART***
+ C7: ***   Strong
+ C9: *     Weak
+C14: No Good!!!
+C15: *     Weak
+C18: *     Weak
